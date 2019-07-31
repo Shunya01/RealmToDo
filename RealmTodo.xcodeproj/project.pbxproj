@@ -73,8 +73,8 @@
 		4FBF94AD22EFEB7D00D9FFB7 /* RealmTodo */ = {
 			isa = PBXGroup;
 			children = (
-				4FBF94C522EFF24200D9FFB7 /* New Group1 */,
-				4FBF94C422EFF14000D9FFB7 /* New Group */,
+				4FBF94C522EFF24200D9FFB7 /* Objects */,
+				4FBF94C422EFF14000D9FFB7 /* Controllers */,
 				4FBF94AE22EFEB7D00D9FFB7 /* AppDelegate.swift */,
 				4FBF94B222EFEB7D00D9FFB7 /* Main.storyboard */,
 				4FBF94B522EFEB8000D9FFB7 /* Assets.xcassets */,
@@ -84,21 +84,21 @@
 			path = RealmTodo;
 			sourceTree = "<group>";
 		};
-		4FBF94C422EFF14000D9FFB7 /* New Group */ = {
+		4FBF94C422EFF14000D9FFB7 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				4FBF94C022EFF0AE00D9FFB7 /* inputViewController.swift */,
 				4FBF94B022EFEB7D00D9FFB7 /* ViewController.swift */,
 			);
-			path = "New Group";
+			path = Controllers;
 			sourceTree = "<group>";
 		};
-		4FBF94C522EFF24200D9FFB7 /* New Group1 */ = {
+		4FBF94C522EFF24200D9FFB7 /* Objects */ = {
 			isa = PBXGroup;
 			children = (
 				4FBF94C222EFF0E500D9FFB7 /* Todo.swift */,
 			);
-			path = "New Group1";
+			path = Objects;
 			sourceTree = "<group>";
 		};
 		7D1DB93E71E2F84E489FC047 /* Pods */ = {
