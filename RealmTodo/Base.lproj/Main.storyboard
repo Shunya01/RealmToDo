@@ -94,6 +94,7 @@
                         <viewLayoutGuide key="safeArea" id="nV8-zf-0jM"/>
                     </view>
                     <connections>
+                        <outlet property="button" destination="iHD-O6-9sY" id="fiG-aG-MSW"/>
                         <outlet property="textField" destination="U22-h8-Q7W" id="kdT-I6-Zvt"/>
                     </connections>
                 </viewController>
